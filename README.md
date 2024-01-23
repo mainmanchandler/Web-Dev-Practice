@@ -1,3 +1,3 @@
 # Web-Dev-Practice
 
-Repo to hold the practice and projects that are done in my online web dev course.
+Non-project repo containing web dev practice code. Nothing interesting going on here =). 
